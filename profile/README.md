@@ -1,4 +1,4 @@
-# My Coding Bootcamp Journey
+# Coding Bootcamp Journey
 
 Welcome to my coding bootcamp journey repository!🚀
 
