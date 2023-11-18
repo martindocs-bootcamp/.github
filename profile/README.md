@@ -25,11 +25,11 @@ Explore a selection of noteworthy projects within this category:
 
 We welcome contributions from the community! If you're interested in contributing to a project or proposing a new one, please follow these guidelines:
 
-1. [Fork the repository](link-to-fork) you want to contribute to.
+1. Fork the repository: Replace this with the actual link to where you can fork the repository on the platform.
 2. Create a new branch: `git checkout -b feature/new-feature`.
 3. Make your changes and commit them: `git commit -m 'Add new feature'`.
 4. Push your changes to your fork: `git push origin feature/new-feature`.
-5. Submit a pull request: [Link to PR guidelines](link-to-pr-guidelines).
+5. Submit a pull request: Replace this with the actual link to your project's guidelines on submitting pull requests.
 
 ## Code of Conduct
 
@@ -58,8 +58,6 @@ I'm committed to fostering a positive and collaborative environment within this 
 6. **Collaborate:** Let's work together, share knowledge, and support each other.
 
 7. **Follow Project Standards:** Adhere to coding standards and project norms.
-
-If you have any concerns or questions, feel free to contact me at [your-email@example.com].
 
 Thank you for contributing positively to our project!
 
