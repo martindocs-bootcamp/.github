@@ -18,10 +18,10 @@ This repository is a documentation of my learning and coding journey. Navigate t
 
 Explore a selection of noteworthy projects within this category:
 
-1. [Password Generator](https://github.com/martindocs-bootcamp/mtatarski-password-generator)
-2. [Code Quiz](https://github.com/martindocs-bootcamp/mtatarski-code-quiz)
-3. [Console/Browser Finances](https://github.com/martindocs-bootcamp/mtatarski-console-finances)
-4. [Boostrap Portfolio](https://github.com/martindocs-bootcamp/mtatarski-bootstrap-portfolio)
+1. [Work Day Scheduler](https://github.com/martindocs-bootcamp/mtatarski-work-day-scheduler)
+2. [Password Generator](https://github.com/martindocs-bootcamp/mtatarski-password-generator)
+3. [Code Quiz](https://github.com/martindocs-bootcamp/mtatarski-code-quiz)
+4. [Console/Browser Finances](https://github.com/martindocs-bootcamp/mtatarski-console-finances)
 
 ## How to Contribute
 
